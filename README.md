@@ -20,7 +20,7 @@ $ brew tap magrathealabs/homebrew-mlabs
 Once the tap is installed, you can install the packages using the `brew install` command:
 
 ```sh
-brew install chromedriver@2.35
+brew install chromedriver@2.34
 brew install icu4c@58.1
 ```
 
